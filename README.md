@@ -38,7 +38,7 @@ To better learn and understand the programming language called Java
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justin-Gomez-DEV&theme=github_dark" />
